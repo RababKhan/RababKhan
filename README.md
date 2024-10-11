@@ -1,3 +1,5 @@
+![logo](https://github.com/obaidsajjad-SQA-Engineer/obaidsajjad-SQA-Engineer/blob/main/sqa-manual-automatic-functional-and-regression-testing.png)
+
 <h1 align="center">Hi 👋, I'm Rabab Khan Rongon</h1>
 <h3 align="center">Resourceful Software Test Engineer with a keen focus on technology, playing a pivotal role in ensuring high-quality deliverables with a passion for innovation and continuous improvement in tech field.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rababkhan&label=Profile%20views&color=0e75b6&style=flat" alt="rababkhan" /> </p>
@@ -7,15 +9,15 @@
 
 - 🌱 I’m currently learning **Selenium and Postman**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RababKhan](https://github.com/RababKhan)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/RababKhan)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/rabab-khan-rongon](https://www.linkedin.com/in/rabab-khan-rongon)
+- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/rabab-khan-rongon)
 
 - 💬 Ask me about **Agile, Manual Testing, Testing Methodology, Product Management**
 
 - 📫 How to reach me **rababrongon@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/189VCi5aR8ckIWbURYcy0ukMpfZSNesiQ/view?usp=sharing](https://drive.google.com/file/d/189VCi5aR8ckIWbURYcy0ukMpfZSNesiQ/view?usp=sharing)
+- 📄 Know about my experiences [Professional CV](https://drive.google.com/file/d/189VCi5aR8ckIWbURYcy0ukMpfZSNesiQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
