@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on [Agency Handy](https://www.agencyhandy.com/)
 
-- 🌱 I’m currently learning **Selenium and Postman**
+- 🌱 I’m currently learning **Selenium**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/RababKhan)
 
 - 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/rabab-khan-rongon)
 
-- 💬 Ask me about **Agile, Manual Testing, Testing Methodology, Product Management**
+- 💬 Ask me about **Agile, Manual Testing, API Testing, API Automation, Testing Methodology, Product Management**
 
 - 📫 How to reach me **rababrongon@gmail.com**
 
-- 📄 Know about my experiences [Professional CV](https://drive.google.com/file/d/189VCi5aR8ckIWbURYcy0ukMpfZSNesiQ/view?usp=sharing)
+- 📄 Know about my experiences [Professional CV](https://drive.google.com/file/d/1pok1m932LxuYamyCZSMDjws8pvRjHN4Z/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
