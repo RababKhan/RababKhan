@@ -1,23 +1,23 @@
 ![logo](https://github.com/obaidsajjad-SQA-Engineer/obaidsajjad-SQA-Engineer/blob/main/sqa-manual-automatic-functional-and-regression-testing.png)
 
 <h1 align="center">Hi 👋, I'm Rabab Khan Rongon</h1>
-<h3 align="center">Resourceful Software Test Engineer with a keen focus on technology, playing a pivotal role in ensuring high-quality deliverables with a passion for innovation and continuous improvement in tech field.</h3>
+<h3 align="center">Resourceful Applied AI Test Engineer with a keen focus on technology, playing a pivotal role in ensuring high-quality deliverables with a passion for innovation and continuous improvement in AI field.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rababkhan&label=Profile%20views&color=0e75b6&style=flat" alt="rababkhan" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [Agency Handy](https://www.agencyhandy.com/)
+- 🔭 I’m currently working on [AskTuring AI](https://askturing.ai/)
 
-- 🌱 I’m currently learning **Selenium**
+- 🌱 I’m currently learning **CI/CD Integration*
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/RababKhan)
 
 - 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/rabab-khan-rongon)
 
-- 💬 Ask me about **Agile, Manual Testing, API Testing, API Automation, Testing Methodology, Product Management**
+- 💬 Ask me about **Agile, AI, Human Centric Computing, API Testing, API Automation, Web Automation, Testing Methodology, Product Management**
 
 - 📫 How to reach me **rababrongon@gmail.com**
 
-- 📄 Know about my experiences [Professional CV](https://drive.google.com/file/d/1pok1m932LxuYamyCZSMDjws8pvRjHN4Z/view?usp=sharing)
+- 📄 Know about my experiences [Professional CV](https://drive.google.com/file/d/1nPCt6R9bGTBMj_3R2q5I9oDaz5LiRKZ9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
